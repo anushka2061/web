@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: ;0
+}
+table tr:nth-child(1){
+    background-color: aqua;
+}
+table tr:nth-child(2){
+    background-color: blueviolet;
+}
+table tr:nth-child(3){
+    background-color: chocolate;
+}
+table tr:nth-child(4){
+    background-color: darkkhaki;
+}
